@@ -5,9 +5,9 @@ In this section we will see how different data  can be loaded in the jupyter not
 
 2) While reading a file ignore columns
 
-3)Assigning new column names
+3) Assigning new column names
 
-4)Drop a row using Index
+4) Drop a row using Index
 
 5) Set a column as index for the data
 
